@@ -82,8 +82,8 @@ Voici quelques images de l'application :
 
 1. **Clonez le projet** :
    ```bash
-   git clone https://github.com/monpseudo/monsuivisante.git
-   cd monsuivisante
+   git clone https://github.com/BaHithBENON/patient-portal-flutter.git
+   cd patient-portal-flutter
 2. **Installez les dépendances** :
     ```bash
     flutter pub get
