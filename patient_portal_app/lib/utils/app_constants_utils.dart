@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart' show EdgeInsets, FontWeight;
+import 'package:flutter/material.dart' show FontWeight;
 
 class AppConstantsUtils {
 
