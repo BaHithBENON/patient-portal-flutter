@@ -1,0 +1,92 @@
+[
+    {
+        "id": "085a3bfd-0b9c-4a71-924d-c8fe41ab4b00",
+        "category": "Sommeil",
+        "title": "Créez un environnement propice au sommeil",
+        "description": "Assurez-vous que votre chambre est sombre, calme et fraîche pour favoriser l'endormissement."
+    },
+    {
+        "id": "b30af428-9034-4d09-ab51-acd147e84818",
+        "category": "Sommeil",
+        "title": "Limitez la caféine après 16h",
+        "description": "La caféine peut perturber l’endormissement même plusieurs heures après sa consommation."
+    },
+    {
+        "id": "3038b07e-3567-4d12-8bb3-d4ed9b976653",
+        "category": "Sommeil",
+        "title": "Évitez les repas lourds avant le coucher",
+        "description": "Un repas trop riche peut nuire à la digestion et retarder l'endormissement."
+    },
+    {
+        "id": "d3610f10-8c58-4573-aab0-c68a27e8d70d",
+        "category": "Sommeil",
+        "title": "Adoptez un rituel relaxant du soir",
+        "description": "Lire, écouter de la musique douce ou méditer peut aider à préparer votre corps au sommeil."
+    },
+    {
+        "id": "469a44ac-d609-4a28-ad40-7a63bd75bb75",
+        "category": "Sommeil",
+        "title": "Évitez les siestes trop longues",
+        "description": "Des siestes de plus de 30 minutes peuvent affecter le sommeil nocturne."
+    },
+    {
+        "id": "dc17a158-4a14-44f4-a172-1ac8730558c5",
+        "category": "Nutrition",
+        "title": "Hydratez-vous correctement",
+        "description": "Buvez 1,5 à 2 litres d’eau par jour pour maintenir un bon fonctionnement de l’organisme."
+    },
+    {
+        "id": "d4ee00d4-2f00-49da-bc62-3a004d633e8c",
+        "category": "Nutrition",
+        "title": "Privilégiez les aliments non transformés",
+        "description": "Favorisez les produits bruts comme les légumes frais, céréales complètes et légumineuses."
+    },
+    {
+        "id": "a6716731-3101-4447-869e-81dde6440acb",
+        "category": "Nutrition",
+        "title": "Mangez à heures fixes",
+        "description": "Respecter des horaires réguliers aide à stabiliser le métabolisme et éviter les grignotages."
+    },
+    {
+        "id": "d208b5ce-74b9-4db1-b256-ce5c2572b33a",
+        "category": "Nutrition",
+        "title": "Mangez lentement",
+        "description": "Bien mâcher permet une meilleure digestion et favorise la sensation de satiété."
+    },
+    {
+        "id": "2d585ebd-b5a1-4e7a-b690-4c640f2d4ddc",
+        "category": "Nutrition",
+        "title": "Limitez les aliments gras saturés",
+        "description": "Ils augmentent les risques cardiovasculaires s’ils sont consommés en excès."
+    },
+    {
+        "id": "f9457f73-5748-45dc-b323-ee19d2cf4c51",
+        "category": "Activité physique",
+        "title": "Prenez les escaliers",
+        "description": "Privilégiez les escaliers plutôt que l’ascenseur pour augmenter votre activité physique au quotidien."
+    },
+    {
+        "id": "430e4b12-ae0b-46ce-a2bd-9fb8f01b36cc",
+        "category": "Activité physique",
+        "title": "Pratiquez une activité cardio",
+        "description": "La course, la natation ou le vélo renforcent le cœur et améliorent l’endurance."
+    },
+    {
+        "id": "245e6004-3a0e-4d49-917d-f11e3e321f0c",
+        "category": "Activité physique",
+        "title": "Essayez le renforcement musculaire",
+        "description": "Des exercices de musculation légers améliorent la posture et préviennent les blessures."
+    },
+    {
+        "id": "a85e4800-67e7-4f94-8f95-1d13436eb9f9",
+        "category": "Activité physique",
+        "title": "Marchez après les repas",
+        "description": "Une marche douce favorise la digestion et évite les pics de glycémie."
+    },
+    {
+        "id": "4135d78a-d475-46a2-9696-b4e3d07ec61b",
+        "category": "Activité physique",
+        "title": "Faites des pauses actives",
+        "description": "Levez-vous et étirez-vous toutes les heures lorsque vous travaillez assis."
+    }
+]

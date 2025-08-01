@@ -1,0 +1,292 @@
+[
+    {
+        "patientId": "3f84e9de-3b63-4a2a-b567-6cb9d5e2c32c",
+        "antecedents": [
+            "Hypertension",
+            "Diabète de type 2"
+        ],
+        "allergies": [
+            "Pénicilline",
+            "Pollen"
+        ],
+        "treatments": [
+            {
+                "name": "Metformine",
+                "dosage": "500 mg",
+                "frequency": "2 fois par jour"
+            },
+            {
+                "name": "Lisinopril",
+                "dosage": "10 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "d2e1d2aa-22b7-44f2-9e09-f328d6b8c7f3",
+        "antecedents": [
+            "Asthme"
+        ],
+        "allergies": [
+            "Arachides"
+        ],
+        "treatments": [
+            {
+                "name": "Ventoline",
+                "dosage": "2 bouffées",
+                "frequency": "au besoin"
+            }
+        ]
+    },
+    {
+        "patientId": "5bd18f3a-6bc7-44b1-9357-d2bb6c0b9f68",
+        "antecedents": [
+            "Cholestérol élevé"
+        ],
+        "allergies": [],
+        "treatments": [
+            {
+                "name": "Atorvastatine",
+                "dosage": "20 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "ec339ac5-f3f4-4092-b98b-559ad789df98",
+        "antecedents": [
+            "Arthrite"
+        ],
+        "allergies": [
+            "Latex"
+        ],
+        "treatments": [
+            {
+                "name": "Ibuprofène",
+                "dosage": "400 mg",
+                "frequency": "3 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "f92d2c17-6a5f-4909-a1c1-77d6b0cf9839",
+        "antecedents": [],
+        "allergies": [
+            "Poissons"
+        ],
+        "treatments": []
+    },
+    {
+        "patientId": "a9218477-1886-4c59-b6e0-3e004e6a9c60",
+        "antecedents": [
+            "Migraines"
+        ],
+        "allergies": [],
+        "treatments": [
+            {
+                "name": "Paracétamol",
+                "dosage": "500 mg",
+                "frequency": "au besoin"
+            }
+        ]
+    },
+    {
+        "patientId": "57f04cd2-4244-4be3-b009-bb71b78c83b2",
+        "antecedents": [
+            "Dépression"
+        ],
+        "allergies": [
+            "Pollen"
+        ],
+        "treatments": [
+            {
+                "name": "Sertraline",
+                "dosage": "50 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "4e396d3c-5bc0-48a3-81f3-5701c1a527b1",
+        "antecedents": [
+            "Hypertension"
+        ],
+        "allergies": [],
+        "treatments": [
+            {
+                "name": "Amlodipine",
+                "dosage": "5 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "2f5b67a3-cc9f-49a4-96bb-6db1347f5a43",
+        "antecedents": [],
+        "allergies": [
+            "Latex",
+            "Arachides"
+        ],
+        "treatments": []
+    },
+    {
+        "patientId": "1f99bd52-582e-47e0-a4a5-fd939b38922b",
+        "antecedents": [
+            "Diabète de type 1"
+        ],
+        "allergies": [],
+        "treatments": [
+            {
+                "name": "Insuline",
+                "dosage": "variable",
+                "frequency": "selon besoin"
+            }
+        ]
+    },
+    {
+        "patientId": "90b3a67e-1903-41d2-87ff-12a86f1b4eb3",
+        "antecedents": [
+            "Asthme"
+        ],
+        "allergies": [
+            "Pollens",
+            "Chat"
+        ],
+        "treatments": [
+            {
+                "name": "Budesonide",
+                "dosage": "200 mcg",
+                "frequency": "2 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "a7e2d5e6-b40f-45ed-a6fa-3d8d0070ebcd",
+        "antecedents": [],
+        "allergies": [],
+        "treatments": []
+    },
+    {
+        "patientId": "cae382a3-dfd0-464a-80c3-c1e69470c587",
+        "antecedents": [
+            "Anxiété"
+        ],
+        "allergies": [
+            "Pénicilline"
+        ],
+        "treatments": [
+            {
+                "name": "Diazépam",
+                "dosage": "5 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "f5b97912-d478-438c-97c0-b69e32c8609a",
+        "antecedents": [
+            "Allergies saisonnières"
+        ],
+        "allergies": [
+            "Pollen"
+        ],
+        "treatments": [
+            {
+                "name": "Loratadine",
+                "dosage": "10 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "5c3045a2-3708-4eeb-b0c1-d2e77ab7832f",
+        "antecedents": [
+            "Hypertension",
+            "Insuffisance rénale"
+        ],
+        "allergies": [
+            "Arachides"
+        ],
+        "treatments": [
+            {
+                "name": "Furosémide",
+                "dosage": "40 mg",
+                "frequency": "1 fois par jour"
+            },
+            {
+                "name": "Ramipril",
+                "dosage": "5 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "7184c670-6809-443e-b839-c96a2f7f6fd4",
+        "antecedents": [
+            "Déficience en vitamine D"
+        ],
+        "allergies": [],
+        "treatments": [
+            {
+                "name": "Cholécalciférol",
+                "dosage": "1000 UI",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "d8f50be2-07de-4a25-a5f3-cf234c63e36e",
+        "antecedents": [],
+        "allergies": [
+            "Latex"
+        ],
+        "treatments": []
+    },
+    {
+        "patientId": "f8a7caa1-4bb4-47a6-b4fd-e524b1dc1a4c",
+        "antecedents": [
+            "Migraines chroniques"
+        ],
+        "allergies": [],
+        "treatments": [
+            {
+                "name": "Topiramate",
+                "dosage": "50 mg",
+                "frequency": "2 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "03b70be9-77de-4373-8bb7-00ff531e89e9",
+        "antecedents": [
+            "Asthme"
+        ],
+        "allergies": [
+            "Pollen"
+        ],
+        "treatments": [
+            {
+                "name": "Montelukast",
+                "dosage": "10 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    },
+    {
+        "patientId": "cb42d9e6-1d8e-4b5b-9f65-2df21419f49d",
+        "antecedents": [
+            "Hypertension"
+        ],
+        "allergies": [
+            "Pollen",
+            "Arachides"
+        ],
+        "treatments": [
+            {
+                "name": "Valsartan",
+                "dosage": "80 mg",
+                "frequency": "1 fois par jour"
+            }
+        ]
+    }
+]
