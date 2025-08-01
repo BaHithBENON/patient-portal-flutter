@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:patient_portal_app/models/patient.dart';
 
+import '../models/patient.dart' show ModelPatient;
 import '../utils/app_constants_utils.dart' show AppConstantsUtils;
 
 class PatientWelcomeWidget extends StatelessWidget {
@@ -12,7 +12,7 @@ class PatientWelcomeWidget extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        // Patient name
+        //
         Text(
           "Bienvenue,",
           style: const TextStyle(

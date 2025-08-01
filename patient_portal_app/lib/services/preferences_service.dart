@@ -2,7 +2,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class PreferencesService {
   static const _keyPatientId = 'current_patient_id';
-  static const _keyThemeMode = 'theme_mode'; // 'light', 'dark', 'system'
+  static const _keyThemeMode = 'theme_mode';
 
   static Future<void> setCurrentPatientId(String id) async {
     final prefs = await SharedPreferences.getInstance();

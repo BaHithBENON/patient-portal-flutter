@@ -26,7 +26,6 @@ class _DossierScreenState extends ConsumerState<DossierScreen> {
   void initState() {
     super.initState();
 
-    // Attendre que le build soit fini pour récupérer le patient et appeler les services
     WidgetsBinding.instance.addPostFrameCallback((_) {
       final homeState = ref.read(homeControllerProvider);
       final dossierController = ref.read(dossierControllerProvider.notifier);

@@ -19,7 +19,6 @@ class _LastAppoitementWidgetState extends ConsumerState<LastAppoitementWidget> {
   void initState() {
     super.initState();
 
-    // Attendre que le build soit fini pour récupérer le patient et appeler les services
     WidgetsBinding.instance.addPostFrameCallback((_) {
       final homeState = ref.read(homeControllerProvider);
       final appointmentController = ref.read(

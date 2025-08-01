@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
-import 'package:patient_portal_app/models/recommandation.dart';
 
 import '../../../enums/recommandation_category_enum.dart' show RecommandationCategory;
+import '../../../models/recommandation.dart' show ModelRecommandation;
 
 class RecommandationState extends Equatable {
   final List<ModelRecommandation> recommandations;

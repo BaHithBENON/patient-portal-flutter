@@ -8,8 +8,6 @@ import '../screens/dossier_screen.dart';
 import '../screens/recommandations_screen.dart';
 import 'app_routes_utils.dart';
 
-/// Encapsulation d'une navigation simplifiée comme avec GetX,
-/// mais en utilisant GoRouter.
 class AppPagesUtils {
   final String route;
   final Map<String, String>? pathParams;
@@ -48,7 +46,6 @@ class AppPagesUtils {
   }
 }
 
-/// GoRouter configuré avec toutes les pages de l'application.
 final GoRouter appRouter = GoRouter(
   initialLocation: AppRoutesUtils.home,
   routes: [

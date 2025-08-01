@@ -14,24 +14,6 @@ extension ScaffoldExtension on Widget {
     ),
   );
 
-  Widget simpleScaffoldWithProps({
-    Widget? floatingActionButton,
-    FloatingActionButtonLocation? floatingActionButtonLocation,
-    FloatingActionButtonAnimator? floatingActionButtonAnimator,
-    Widget? bottomNavigationBar,
-  }) => Scaffold(
-    floatingActionButton: floatingActionButton,
-    floatingActionButtonLocation: floatingActionButtonLocation,
-    floatingActionButtonAnimator: floatingActionButtonAnimator,
-    bottomNavigationBar: bottomNavigationBar,
-    body: SafeArea(
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [Expanded(child: this)],
-      ),
-    ),
-  );
-
   Widget emptyScaffoldWithProps({
     Widget? floatingActionButton,
     FloatingActionButtonLocation? floatingActionButtonLocation,

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart' show Icons;
 import 'package:flutter/widgets.dart';
-import 'package:patient_portal_app/utils/app_constants_utils.dart';
 
+import '../utils/app_constants_utils.dart' show AppConstantsUtils;
 import 'icon_button_widget.dart' show IconButtonWidget;
 
 class AppBarWidget extends StatelessWidget {

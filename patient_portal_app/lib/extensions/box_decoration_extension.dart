@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 extension BoxDecorationExtensions on BoxDecoration {
-  /// Ajoute un fond coloré avec coins arrondis, bordures, ombres...
   static BoxDecoration circular({
     Color? color,
     double radius = 16,
@@ -30,7 +29,6 @@ extension BoxDecorationExtensions on BoxDecoration {
     );
   }
 
-  /// Cercle parfait
   static BoxDecoration circle({
     Color? color,
     Border? border,
